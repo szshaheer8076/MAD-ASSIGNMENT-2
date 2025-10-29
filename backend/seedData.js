@@ -223,6 +223,7 @@ const products = [
   }
 ];
 
+
 async function seedDatabase() {
   try {
     // Connect to MongoDB
