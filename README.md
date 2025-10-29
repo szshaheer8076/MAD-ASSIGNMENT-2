@@ -27,6 +27,7 @@ A full-stack **E-Commerce mobile application** built with **React Native (Expo)*
 - React Native Paper / basic components
 
 ### Backend
+https://github.com/user-attachments/assets/a6608dc1-ba61-4aec-88ad-bfd98d233488
 - Node.js + Express
 - MongoDB + Mongoose
 - JWT Authentication
