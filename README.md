@@ -32,5 +32,5 @@ https://github.com/user-attachments/assets/a6608dc1-ba61-4aec-88ad-bfd98d233488
 - MongoDB + Mongoose
 - JWT Authentication
 - dotenv for configuration
-
->>>>>>> 1c0d0e1 (Initial commit - MAD Assignment 2)
+  Youtube Link
+https://youtube.com/shorts/KAffGfTuAwc?si=OmBKqR2Ps3FzGIcp
